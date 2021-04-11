@@ -37,8 +37,9 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-
-                android:onClick="parenthesisBtn"
+                 android:onClick="parenthesisBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/parenthesis" />
 
             <Button
@@ -48,6 +49,8 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:onClick="exponentBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/exponent" />
 
             <Button
@@ -57,6 +60,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="divideBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/divide" />
         </TableRow>
 
@@ -72,6 +77,7 @@
                 android:layout_weight="1"
                 android:onClick="sevenBtn"
                 android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/seven" />
 
             <Button
@@ -81,6 +87,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="eightBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/eight" />
 
             <Button
@@ -90,6 +98,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="nineBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/nine" />
 
             <Button
@@ -99,6 +109,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="multiplyBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/multiply" />
 
         </TableRow>
@@ -114,6 +126,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="fourBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/four" />
 
             <Button
@@ -123,6 +137,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="fiveBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/five" />
 
             <Button
@@ -132,6 +148,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="sixBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/six" />
 
             <Button
@@ -141,6 +159,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="subtractBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/subtract" />
         </TableRow>
 
@@ -155,6 +175,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="oneBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/one" />
 
             <Button
@@ -164,6 +186,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="twoBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/two" />
 
             <Button
@@ -173,6 +197,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="threeBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/three" />
 
             <Button
@@ -182,6 +208,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="addBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/add" />
         </TableRow>
 
@@ -196,6 +224,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="plusBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/plus" />
 
             <Button
@@ -205,6 +235,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="zeroBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/zero" />
 
             <Button
@@ -214,6 +246,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="pointBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/point" />
 
             <Button
@@ -223,6 +257,8 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="equalsBtn"
+                android:backgroundTint="@color/black"
+                android:textColor="@color/white"
                 android:text="@string/equals" />
         </TableRow>
     </TableLayout>
