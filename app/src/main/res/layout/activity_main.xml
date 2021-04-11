@@ -71,6 +71,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:onClick="sevenBtn"
+                android:backgroundTint="@color/black"
                 android:text="@string/seven" />
 
             <Button
